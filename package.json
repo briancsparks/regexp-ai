@@ -1,0 +1,16 @@
+{
+  "name": "regexp-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "fb-watchman": "^2.0.0",
+    "sg-clihelp": "^1.0.33",
+    "split2": "^3.1.1"
+  }
+}
